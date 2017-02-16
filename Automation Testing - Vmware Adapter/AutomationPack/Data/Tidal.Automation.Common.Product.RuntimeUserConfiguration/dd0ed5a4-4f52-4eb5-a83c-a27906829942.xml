@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-16"?><RuntimeUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GenericRuntimeUserConfiguration" xml:space="preserve"><Id>dd0ed5a4-4f52-4eb5-a83c-a27906829942</Id><DisplayName>Automation Testing - vCenter Server User</DisplayName><Description>Username:
+Password:</Description><CreatedTime>2017-02-14T22:04:04.5678698Z</CreatedTime><ModifiedTime>2017-02-14T22:06:40.4002479Z</ModifiedTime></RuntimeUserConfiguration>
